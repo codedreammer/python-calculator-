@@ -12,3 +12,13 @@ print("lets use a for loop/n")
 for charactor in apple:
     print(charactor)
     
+name = "akshay mehat"
+len1 = len(name)
+print(len1)
+
+#Quick Quiz
+nm = "Harry"
+print(nm[-4:-2])
+
+
+
