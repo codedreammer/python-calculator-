@@ -26,3 +26,18 @@ print(txt)
 
 txt = f"The price is {20 * 59} dollars"
 print(txt)
+
+b = "hello world!"
+print(b[2:4])
+
+a = "hello world !"
+print(a.upper())
+
+#format - string
+age = 23
+txt = f"My name is akshay mehta and my age is{age} "
+print(txt)
+
+age = 34
+txt = f"My father's name is niranjan kumar anal and his age is {age}"
+print(txt)
